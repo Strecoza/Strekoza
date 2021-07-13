@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @strekoza86
+- 👋 Hi, I’m Tata
 - 🌱 I’m currently learning JS
 
 
